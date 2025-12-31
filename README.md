@@ -25,7 +25,7 @@ The goal is to uncover **spending patterns, customer segments, and revenue drive
 
 ## 🛠️ Tools & Technologies
 - **Python:** Pandas, NumPy  
-- **SQL:** PostgreSQL  
+- **SQL:** MySQL(POPSQL)
 - **Visualization:** Power BI  
 
 ---
